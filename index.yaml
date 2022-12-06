@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  node-https-k3s04:
+  - apiVersion: v1
+    appVersion: 0.0.9
+    created: "2022-12-06T23:25:14.994835542Z"
+    description: A Helm chart for Kubernetes
+    digest: b4cb8140986357f8d5d3fe99ff05738c4120c7ecc77acd573ed90211d3fc02c2
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: node-https-k3s04
+    urls:
+    - node-https-k3s04-0.0.9.tgz
+    version: 0.0.9
+generated: "2022-12-06T23:25:14.992824353Z"
