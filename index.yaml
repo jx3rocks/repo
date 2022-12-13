@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  node-http-k3s05:
+  - apiVersion: v1
+    appVersion: 0.0.4
+    created: "2022-12-13T00:18:31.867766034Z"
+    description: A Helm chart for Kubernetes
+    digest: 7346abb9c24af4a1cd66662d6f0b3303a7a8c6c597270dfb9423c090859860a7
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: node-http-k3s05
+    urls:
+    - node-http-k3s05-0.0.4.tgz
+    version: 0.0.4
   node-https-k3s04:
   - apiVersion: v1
     appVersion: 0.0.10
-    created: "2022-12-06T23:27:03.814268807Z"
+    created: "2022-12-13T00:18:31.869800731Z"
     description: A Helm chart for Kubernetes
     digest: a037cbf4599fa92738fc8c226ba124bb37f45161625f9a0ccdbac5251951b316
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -13,7 +24,7 @@ entries:
     version: 0.0.10
   - apiVersion: v1
     appVersion: 0.0.9
-    created: "2022-12-06T23:27:03.824330925Z"
+    created: "2022-12-13T00:18:31.880929035Z"
     description: A Helm chart for Kubernetes
     digest: b4cb8140986357f8d5d3fe99ff05738c4120c7ecc77acd573ed90211d3fc02c2
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -21,4 +32,4 @@ entries:
     urls:
     - node-https-k3s04-0.0.9.tgz
     version: 0.0.9
-generated: "2022-12-06T23:27:03.806794298Z"
+generated: "2022-12-13T00:18:31.857493483Z"
