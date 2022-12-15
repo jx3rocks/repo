@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   node-http-k3s05:
   - apiVersion: v1
+    appVersion: 0.0.5
+    created: "2022-12-15T01:17:08.681885667Z"
+    description: A Helm chart for Kubernetes
+    digest: 88b46626f336f3c611b5978febe9a1eaf19995bb6e27afa57bf163ae98896590
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: node-http-k3s05
+    urls:
+    - node-http-k3s05-0.0.5.tgz
+    version: 0.0.5
+  - apiVersion: v1
     appVersion: 0.0.4
-    created: "2022-12-14T23:03:36.86658741Z"
+    created: "2022-12-15T01:17:08.680786416Z"
     description: A Helm chart for Kubernetes
     digest: 7346abb9c24af4a1cd66662d6f0b3303a7a8c6c597270dfb9423c090859860a7
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -14,7 +24,7 @@ entries:
   node-http-k3s06:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2022-12-14T23:03:36.868059818Z"
+    created: "2022-12-15T01:17:08.682698649Z"
     description: A Helm chart for Kubernetes
     digest: 3c42d0c55c281221dedbbd1dbf447c577227997f2df59eda1528d300871663cb
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -25,7 +35,7 @@ entries:
   node-https-k3s04:
   - apiVersion: v1
     appVersion: 0.0.10
-    created: "2022-12-14T23:03:36.869559735Z"
+    created: "2022-12-15T01:17:08.683864643Z"
     description: A Helm chart for Kubernetes
     digest: a037cbf4599fa92738fc8c226ba124bb37f45161625f9a0ccdbac5251951b316
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -35,7 +45,7 @@ entries:
     version: 0.0.10
   - apiVersion: v1
     appVersion: 0.0.9
-    created: "2022-12-14T23:03:36.871166677Z"
+    created: "2022-12-15T01:17:08.684812Z"
     description: A Helm chart for Kubernetes
     digest: b4cb8140986357f8d5d3fe99ff05738c4120c7ecc77acd573ed90211d3fc02c2
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -43,4 +53,4 @@ entries:
     urls:
     - node-https-k3s04-0.0.9.tgz
     version: 0.0.9
-generated: "2022-12-14T23:03:36.864851555Z"
+generated: "2022-12-15T01:17:08.679454041Z"
