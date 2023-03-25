@@ -3,7 +3,7 @@ entries:
   node-http-k3s02:
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2023-01-12T18:24:40.809248571Z"
+    created: "2023-03-25T20:23:41.332882442Z"
     description: A Helm chart for Kubernetes
     digest: 1f54780bd610ceeefc302fca6a4757812512e83ced757ce1e9cfc6ea0e2fcafb
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -13,7 +13,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2023-01-12T18:24:40.808070551Z"
+    created: "2023-03-25T20:23:41.332009503Z"
     description: A Helm chart for Kubernetes
     digest: e28908b5c516282a059b179fa57fa577839ff631cd6af7f9fd4796b1bee724d1
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -24,7 +24,7 @@ entries:
   node-http-k3s04:
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2023-01-12T18:24:40.810360708Z"
+    created: "2023-03-25T20:23:41.333764859Z"
     description: A Helm chart for Kubernetes
     digest: e3d3462f96b61df9e9147385659d4e919223e19ef76fbaa724b6de307ceb74e7
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -35,7 +35,7 @@ entries:
   node-http-k3s05:
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2023-01-12T18:24:40.81133509Z"
+    created: "2023-03-25T20:23:41.334557473Z"
     description: A Helm chart for Kubernetes
     digest: 4daa6a44c7850b56bd821082b1878d0efb19a6b2e9bd8801156640aab632795a
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -43,4 +43,15 @@ entries:
     urls:
     - node-http-k3s05-0.0.3.tgz
     version: 0.0.3
-generated: "2023-01-12T18:24:40.805853555Z"
+  node-https-gke05:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2023-03-25T20:23:41.335360327Z"
+    description: A Helm chart for Kubernetes
+    digest: eda614bd2517ec59bab0cbafeeac770ca79916d65409bdf809c1cde895f12219
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: node-https-gke05
+    urls:
+    - node-https-gke05-0.0.1.tgz
+    version: 0.0.1
+generated: "2023-03-25T20:23:41.33019848Z"
