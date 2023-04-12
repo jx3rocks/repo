@@ -1,90 +1,16 @@
 apiVersion: v1
 entries:
-  node-http-k3s02:
-  - apiVersion: v1
-    appVersion: 0.0.5
-    created: "2023-03-29T14:24:00.58950719Z"
-    description: A Helm chart for Kubernetes
-    digest: 1f54780bd610ceeefc302fca6a4757812512e83ced757ce1e9cfc6ea0e2fcafb
-    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
-    name: node-http-k3s02
-    urls:
-    - node-http-k3s02-0.0.5.tgz
-    version: 0.0.5
-  - apiVersion: v1
-    appVersion: 0.0.4
-    created: "2023-03-29T14:24:00.587791287Z"
-    description: A Helm chart for Kubernetes
-    digest: e28908b5c516282a059b179fa57fa577839ff631cd6af7f9fd4796b1bee724d1
-    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
-    name: node-http-k3s02
-    urls:
-    - node-http-k3s02-0.0.4.tgz
-    version: 0.0.4
-  node-http-k3s04:
-  - apiVersion: v1
-    appVersion: 0.0.3
-    created: "2023-03-29T14:24:00.591065076Z"
-    description: A Helm chart for Kubernetes
-    digest: e3d3462f96b61df9e9147385659d4e919223e19ef76fbaa724b6de307ceb74e7
-    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
-    name: node-http-k3s04
-    urls:
-    - node-http-k3s04-0.0.3.tgz
-    version: 0.0.3
-  node-http-k3s05:
-  - apiVersion: v1
-    appVersion: 0.0.3
-    created: "2023-03-29T14:24:00.592041254Z"
-    description: A Helm chart for Kubernetes
-    digest: 4daa6a44c7850b56bd821082b1878d0efb19a6b2e9bd8801156640aab632795a
-    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
-    name: node-http-k3s05
-    urls:
-    - node-http-k3s05-0.0.3.tgz
-    version: 0.0.3
-  node-https-gke05:
+  node-https-gke03:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2023-03-29T14:24:00.593398204Z"
+    created: "2023-04-12T15:05:26.409738581Z"
     description: A Helm chart for Kubernetes
-    digest: eda614bd2517ec59bab0cbafeeac770ca79916d65409bdf809c1cde895f12219
+    digest: d146777d8af30eaf3c89e114aff7a827479882e9e07edc4f8b4c188866d08c64
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
-    name: node-https-gke05
+    name: node-https-gke03
+    sources:
+    - https://github.com/jx3rocks/node-https-gke03.git
     urls:
-    - node-https-gke05-0.0.1.tgz
+    - node-https-gke03-0.0.1.tgz
     version: 0.0.1
-  node-https-gke06:
-  - apiVersion: v1
-    appVersion: 0.0.1
-    created: "2023-03-29T14:24:00.594230067Z"
-    description: A Helm chart for Kubernetes
-    digest: c537449c23ccd7d79927be0e4aa63fd01eb3b24b50d555a3c6f1cc9165c03918
-    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
-    name: node-https-gke06
-    urls:
-    - node-https-gke06-0.0.1.tgz
-    version: 0.0.1
-  node-https-gke07:
-  - apiVersion: v1
-    appVersion: 0.0.1
-    created: "2023-03-29T14:24:00.596124093Z"
-    description: A Helm chart for Kubernetes
-    digest: 3a4ee64d8984810fb3c8c616458ee56739da44b3642aa2fabd32bab5a68f95b2
-    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
-    name: node-https-gke07
-    urls:
-    - node-https-gke07-0.0.1.tgz
-    version: 0.0.1
-  node-https-gke08:
-  - apiVersion: v1
-    appVersion: 0.0.1
-    created: "2023-03-29T14:24:00.59719064Z"
-    description: A Helm chart for Kubernetes
-    digest: 1bf59530cb8623c070e12f29ed537334e7cc9d0b5a3cdf02ebe53f180e98137e
-    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
-    name: node-https-gke08
-    urls:
-    - node-https-gke08-0.0.1.tgz
-    version: 0.0.1
-generated: "2023-03-29T14:24:00.584920554Z"
+generated: "2023-04-12T15:05:26.408503384Z"
