@@ -3,7 +3,7 @@ entries:
   node-https-aks01:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2023-04-19T17:06:28.837274676Z"
+    created: "2023-04-21T21:54:26.898638572Z"
     description: A Helm chart for Kubernetes
     digest: 12ab40816cec3a536d3ac49ff4352cb2f7d6514914e525b5aaa0167ca6ac3cd0
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -15,7 +15,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2023-04-19T17:06:28.836129353Z"
+    created: "2023-04-21T21:54:26.897911789Z"
     description: A Helm chart for Kubernetes
     digest: a9277ee28aebe16ec6df4476096f9275fd02aaff6856b5d4c041713512e68313
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -28,7 +28,7 @@ entries:
   node-https-eks04:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2023-04-19T17:06:28.838081219Z"
+    created: "2023-04-21T21:54:26.899353128Z"
     description: A Helm chart for Kubernetes
     digest: d9fd4b8bfc34548b9296211f6aa7dde1a13385fad75d5f6d96edb543ba119c78
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -38,10 +38,23 @@ entries:
     urls:
     - node-https-eks04-0.0.2.tgz
     version: 0.0.2
+  node-https-eks05:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2023-04-21T21:54:26.900111209Z"
+    description: A Helm chart for Kubernetes
+    digest: 1f204b5cf5ef85b4fb91228f06e02199b685d89cec5efb72137c8c945e46ac86
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: node-https-eks05
+    sources:
+    - https://github.com/jx3rocks/node-https-eks05.git
+    urls:
+    - node-https-eks05-0.0.1.tgz
+    version: 0.0.1
   node-https-gke03:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2023-04-19T17:06:28.839473512Z"
+    created: "2023-04-21T21:54:26.901449099Z"
     description: A Helm chart for Kubernetes
     digest: 51d6a57c59afd7a86957b3772b9dad7f86e4b276d2e7a132e8c4b3f93d6708c3
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -53,7 +66,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2023-04-19T17:06:28.838844718Z"
+    created: "2023-04-21T21:54:26.90076636Z"
     description: A Helm chart for Kubernetes
     digest: d146777d8af30eaf3c89e114aff7a827479882e9e07edc4f8b4c188866d08c64
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -63,4 +76,4 @@ entries:
     urls:
     - node-https-gke03-0.0.1.tgz
     version: 0.0.1
-generated: "2023-04-19T17:06:28.83437674Z"
+generated: "2023-04-21T21:54:26.895844427Z"
