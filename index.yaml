@@ -3,7 +3,7 @@ entries:
   node-https-aks03:
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2023-08-24T20:24:14.191300429Z"
+    created: "2023-09-19T16:25:30.844383521Z"
     description: A Helm chart for Kubernetes
     digest: df207cda8724e4430039281ed821585378e70bcfd1156011be46d429d424ed9a
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -15,7 +15,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2023-08-24T20:24:14.190382619Z"
+    created: "2023-09-19T16:25:30.843206618Z"
     description: A Helm chart for Kubernetes
     digest: 0b34fb0e484838701694a262cf92f29c5357eab2e9ed81a82513f7ce90f5359c
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -27,7 +27,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2023-08-24T20:24:14.189340808Z"
+    created: "2023-09-19T16:25:30.842245709Z"
     description: A Helm chart for Kubernetes
     digest: 07e7f0fbdede5c9b29cefecb8b8122732c917395197b9f2f6a9c5957916f3211
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -39,7 +39,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2023-08-24T20:24:14.188364198Z"
+    created: "2023-09-19T16:25:30.840863816Z"
     description: A Helm chart for Kubernetes
     digest: 961f0d51776dcf8d803b08610df03d40ba7f4dfeb4cd9797702f7f0c95047b66
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -49,4 +49,17 @@ entries:
     urls:
     - node-https-aks03-0.0.1.tgz
     version: 0.0.1
-generated: "2023-08-24T20:24:14.186984283Z"
+  node-https-eks02:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2023-09-19T16:25:30.845117755Z"
+    description: A Helm chart for Kubernetes
+    digest: 9855767e61ddd5d732147c456569dbb7beb886f6abec96fff5bcc6f337ac14d0
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: node-https-eks02
+    sources:
+    - https://github.com/jx3rocks/node-https-eks02.git
+    urls:
+    - node-https-eks02-0.0.1.tgz
+    version: 0.0.1
+generated: "2023-09-19T16:25:30.836386297Z"
