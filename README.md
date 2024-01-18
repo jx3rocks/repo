@@ -8,11 +8,11 @@ Please refer to Helm's [documentation](https://helm.sh/docs/) to get started.
 
 Once Helm is set up properly, add the repo as follows:
 
-    helm repo add myrepo https://jx3rocks.github.io/node-https-k3s04/
+    helm repo add myrepo https://jx3rocks.github.io/repo/
 
 you can search the charts via:
 
-    helm search repo myfilter
+    helm search repo aks04
 
 ## View the YAML
 
