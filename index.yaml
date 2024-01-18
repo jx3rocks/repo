@@ -3,7 +3,7 @@ entries:
   node-https-aks03:
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2024-01-18T17:26:29.551325-05:00"
+    created: "2024-01-18T22:44:05.335337245Z"
     description: A Helm chart for Kubernetes
     digest: df207cda8724e4430039281ed821585378e70bcfd1156011be46d429d424ed9a
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -15,7 +15,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2024-01-18T17:26:29.550169-05:00"
+    created: "2024-01-18T22:44:05.334648725Z"
     description: A Helm chart for Kubernetes
     digest: 0b34fb0e484838701694a262cf92f29c5357eab2e9ed81a82513f7ce90f5359c
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -27,8 +27,20 @@ entries:
     version: 0.0.3
   node-https-aks04:
   - apiVersion: v1
+    appVersion: 0.0.2
+    created: "2024-01-18T22:44:05.337390006Z"
+    description: A Helm chart for Kubernetes
+    digest: 271c61137bdfcc8d7d4d200bb134783b72bd81cb53b8d3e1293ef5dfe6657148
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: node-https-aks04
+    sources:
+    - https://github.com/jx3rocks/node-https-aks04.git
+    urls:
+    - node-https-aks04-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-01-18T17:26:29.552547-05:00"
+    created: "2024-01-18T22:44:05.336101868Z"
     description: A Helm chart for Kubernetes
     digest: 67f496a36e08a34b8b92b17076dea981445970f741e4f85633e0b2aaa16e7abf
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -38,4 +50,4 @@ entries:
     urls:
     - node-https-aks04-0.0.1.tgz
     version: 0.0.1
-generated: "2024-01-18T17:26:29.548699-05:00"
+generated: "2024-01-18T22:44:05.333824701Z"
