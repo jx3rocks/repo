@@ -21,10 +21,13 @@ You can have a look at the underlying charts YAML at: [index.yaml](index.yaml)
 You can manually update the index.yaml 
 
 ## Extract chart from another repo
+
     curl -LO https://chartmuseum.fyi.hedraios.xyz/charts/node-https-aks02-0.0.1.tgz
 ## Update the index.yaml
+
     helm repo index .
 ## Update repo
+
     git commit -a -m "index update"
     git push origin gh-pages
 
