@@ -3,7 +3,7 @@ entries:
   node-http-chk01:
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2024-10-09T17:45:47.839626969Z"
+    created: "2024-10-11T20:19:57.114242524Z"
     description: A Helm chart for Kubernetes
     digest: ac031626cc222cc8222ae41d39cec690821a07e38b6f75cbc438562c88ebf5a6
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -15,7 +15,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.838792721Z"
+    created: "2024-10-11T20:19:57.113388979Z"
     description: A Helm chart for Kubernetes
     digest: b6d1f4c4a9b13a50cd18f1e93a49e97abc979ceafded030042221ae6f7663957
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -28,7 +28,7 @@ entries:
   node-http-ngx01:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.841211354Z"
+    created: "2024-10-11T20:19:57.115954979Z"
     description: A Helm chart for Kubernetes
     digest: fba3a52f203a42bd72abd7df9b37216b7a08bc6f09559c801442c840a645fc1b
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -40,7 +40,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.84043813Z"
+    created: "2024-10-11T20:19:57.115061322Z"
     description: A Helm chart for Kubernetes
     digest: 14fa2a15a4ad2a8ba78914f80f22ceef1b2c081c6b9a5d6491ab39c7597522b1
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -53,7 +53,7 @@ entries:
   node-http-nul01:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.841948418Z"
+    created: "2024-10-11T20:19:57.116811054Z"
     description: A Helm chart for Kubernetes
     digest: 4572a83e6a778184fc154741660db2528b9a984914fa4505a9f9443b8ccf9c13
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -65,8 +65,20 @@ entries:
     version: 0.0.1
   node-http-vlk01:
   - apiVersion: v1
+    appVersion: 0.0.8
+    created: "2024-10-11T20:19:57.126585203Z"
+    description: A Helm chart for Kubernetes
+    digest: 07868a51956289f7c9769c86f2d19fba9b4d4730635be0646ecbb78d876e6d99
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: node-http-vlk01
+    sources:
+    - https://github.com/jx3rocks/node-http-vlk01.git
+    urls:
+    - node-http-vlk01-0.0.8.tgz
+    version: 0.0.8
+  - apiVersion: v1
     appVersion: 0.0.7
-    created: "2024-10-09T17:45:47.849777611Z"
+    created: "2024-10-11T20:19:57.124104157Z"
     description: A Helm chart for Kubernetes
     digest: 82865a532e2749394f806b18d1888b3fab3e472449003257c3135f41da8d9455
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -78,7 +90,7 @@ entries:
     version: 0.0.7
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2024-10-09T17:45:47.847242316Z"
+    created: "2024-10-11T20:19:57.12203158Z"
     description: A Helm chart for Kubernetes
     digest: 9a515b390a4c7b4950ef2a0282506a2c9685e9b72f926889bbddfe79e555248d
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -90,7 +102,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2024-10-09T17:45:47.846218613Z"
+    created: "2024-10-11T20:19:57.121169433Z"
     description: A Helm chart for Kubernetes
     digest: 0b4822a17040c977281683c9604039bd885d9b1127674ded35504ddd276abe8d
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -102,7 +114,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2024-10-09T17:45:47.845420356Z"
+    created: "2024-10-11T20:19:57.120365466Z"
     description: A Helm chart for Kubernetes
     digest: 8ca68fc34c70c00f4c2798a16ca6d5672265b273fd47c1dc9660e6cea7c2d19b
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -114,7 +126,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2024-10-09T17:45:47.844635913Z"
+    created: "2024-10-11T20:19:57.11962493Z"
     description: A Helm chart for Kubernetes
     digest: 9c4f50429a61abd5b8f13ac4f63f476c4e0363f0d43b2b9c1e1ee0e32defb1d9
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -126,7 +138,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.843821184Z"
+    created: "2024-10-11T20:19:57.118831526Z"
     description: A Helm chart for Kubernetes
     digest: df8da72d6c8f6ef1e1ab3b89ecc4069f2165e4d4ea26fc7b0eb826b2cf8b704e
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -138,7 +150,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.842773018Z"
+    created: "2024-10-11T20:19:57.117785497Z"
     description: A Helm chart for Kubernetes
     digest: bf2d5aa7e0564033deaf53ac450abbcbfd5bd71cad092818c5ec55e09a1a0bb1
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -151,7 +163,7 @@ entries:
   node-https-a3001:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.851749025Z"
+    created: "2024-10-11T20:19:57.127538361Z"
     description: A Helm chart for Kubernetes
     digest: d1986200f342dfb43046a216c8f057338b8e3f7f79c5f06f44551fa98b9fc7be
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -164,7 +176,7 @@ entries:
   node-https-aks01:
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2024-10-09T17:45:47.85577874Z"
+    created: "2024-10-11T20:19:57.131434207Z"
     description: A Helm chart for Kubernetes
     digest: 6ca541297913504a8b9c4d3c313505579390243e1df47f0055f483d3541fa62e
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -176,7 +188,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2024-10-09T17:45:47.854975637Z"
+    created: "2024-10-11T20:19:57.13068739Z"
     description: A Helm chart for Kubernetes
     digest: bb0184724dac01a8d1ebe0f0922eed6473bca271000ce8333939676ae4843183
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -188,7 +200,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2024-10-09T17:45:47.854195417Z"
+    created: "2024-10-11T20:19:57.129939028Z"
     description: A Helm chart for Kubernetes
     digest: 96f7ff67295f4ab6a80ff3364cb6d9283f0713e10229684139dfe1f29ae7eeda
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -200,7 +212,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.853461109Z"
+    created: "2024-10-11T20:19:57.129126174Z"
     description: A Helm chart for Kubernetes
     digest: 10255b90c7c0508e52da1aa01ba37b015e13f9ee988948622ed454f923c9198c
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -212,7 +224,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.85265812Z"
+    created: "2024-10-11T20:19:57.128347385Z"
     description: A Helm chart for Kubernetes
     digest: ad21a6ce491a9a6fb86e98b5864866b4019a0d0f7fda9405f66f6db141af1d3b
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -225,7 +237,7 @@ entries:
   node-https-aks02:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.857761071Z"
+    created: "2024-10-11T20:19:57.1329429Z"
     description: A Helm chart for Kubernetes
     digest: 021bf1eca7abf8985fcfd2b13cde3713521bb00ef663db3eb881b66ceead5b8e
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -237,7 +249,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.856649854Z"
+    created: "2024-10-11T20:19:57.13218437Z"
     description: A Helm chart for Kubernetes
     digest: f56e9a937fdb8cbdf7803af4c24b6dd90474d917e4fe87d4ea5361e10138ae66
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -250,7 +262,7 @@ entries:
   node-https-aks03:
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2024-10-09T17:45:47.86078162Z"
+    created: "2024-10-11T20:19:57.136562845Z"
     description: A Helm chart for Kubernetes
     digest: df207cda8724e4430039281ed821585378e70bcfd1156011be46d429d424ed9a
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -262,7 +274,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2024-10-09T17:45:47.860034621Z"
+    created: "2024-10-11T20:19:57.135414072Z"
     description: A Helm chart for Kubernetes
     digest: 0b34fb0e484838701694a262cf92f29c5357eab2e9ed81a82513f7ce90f5359c
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -274,7 +286,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.859291011Z"
+    created: "2024-10-11T20:19:57.134502875Z"
     description: A Helm chart for Kubernetes
     digest: 34b482f3d49f081b18e19b5c0042d716c9626a6acf3e14fca42fae7f9bec7ba2
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -286,7 +298,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.858531957Z"
+    created: "2024-10-11T20:19:57.133717145Z"
     description: A Helm chart for Kubernetes
     digest: 2bed61813fc56336283f37d17666e4d44844dc8aacda77e2c8ebea40b25811b0
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -299,7 +311,7 @@ entries:
   node-https-aks04:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.862361765Z"
+    created: "2024-10-11T20:19:57.138498111Z"
     description: A Helm chart for Kubernetes
     digest: 5c02f555cb28f0bc8651b0b938e96d62b47043daf8564bc679341d53e2b90a8c
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -311,7 +323,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.861583427Z"
+    created: "2024-10-11T20:19:57.137305482Z"
     description: A Helm chart for Kubernetes
     digest: f0f3933a53c4add92f79c129c7f75a32a430bf7513de6124bd976ef08e2bccd7
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -324,7 +336,7 @@ entries:
   node-https-aks05:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.865453678Z"
+    created: "2024-10-11T20:19:57.14225634Z"
     description: A Helm chart for Kubernetes
     digest: 123b4d8de35f7a38bf6bb51b1803fb8dbd16117c9929bdf1fcd415fd0ecb4074
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -336,7 +348,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.863083836Z"
+    created: "2024-10-11T20:19:57.140136018Z"
     description: A Helm chart for Kubernetes
     digest: 67014aad4fb666f4bfaddee6ea6dc8b7dd8c506e997a1c8a14c468dfe29a396d
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -349,7 +361,7 @@ entries:
   node-https-aks06:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.867315298Z"
+    created: "2024-10-11T20:19:57.143173005Z"
     description: A Helm chart for Kubernetes
     digest: 53a4a580f9ff287823384c1aaa5f4462f05771342527dc1bdac6abac8da2dd95
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -362,7 +374,7 @@ entries:
   node-https-aks07:
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2024-10-09T17:45:47.869706201Z"
+    created: "2024-10-11T20:19:57.145860029Z"
     description: A Helm chart for Kubernetes
     digest: 688c92b1fede6f1583c2d3622398edb68ebce40c8234024ebe7eb6fdad31f515
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -374,7 +386,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.868924304Z"
+    created: "2024-10-11T20:19:57.144933964Z"
     description: A Helm chart for Kubernetes
     digest: 1086a26c2a276b7662180255c3eb3d815d6c2e786905394440d05d41d2323cd2
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -386,7 +398,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.868130791Z"
+    created: "2024-10-11T20:19:57.144024439Z"
     description: A Helm chart for Kubernetes
     digest: 5786bd37266e5423c8285a64ade62f327083eba4327c93780862cdeca6f27c9c
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -399,7 +411,7 @@ entries:
   node-https-aks99:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.871266261Z"
+    created: "2024-10-11T20:19:57.147372897Z"
     description: A Helm chart for Kubernetes
     digest: fbda85eb472ab4de2c80355fe32ed5175aa88ed23facf6db654f6596bb167d81
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -411,7 +423,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.870480833Z"
+    created: "2024-10-11T20:19:57.14664379Z"
     description: A Helm chart for Kubernetes
     digest: 4597414761ee0be689ce706b41cc3ee367f9494a9f75f259963a8d5766aecc23
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -424,7 +436,7 @@ entries:
   node-https-eks01:
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2024-10-09T17:45:47.878227543Z"
+    created: "2024-10-11T20:19:57.151945487Z"
     description: A Helm chart for Kubernetes
     digest: 7cf1a9a3f0d5dc05913df7a9f19e249d8f4b7c8db25eff4a762aae1e6d185e8c
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -436,7 +448,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2024-10-09T17:45:47.877477857Z"
+    created: "2024-10-11T20:19:57.1511667Z"
     description: A Helm chart for Kubernetes
     digest: 9b26a338ebb63f9463f8458da8baa1651c64a116ab216f972a0ccdae796a4d10
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -448,7 +460,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2024-10-09T17:45:47.876198771Z"
+    created: "2024-10-11T20:19:57.150426779Z"
     description: A Helm chart for Kubernetes
     digest: e8448367cfee605d88f0a03fbc6bdae6ec95ed01c53ae015b382f6db2a492284
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -460,7 +472,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2024-10-09T17:45:47.874695455Z"
+    created: "2024-10-11T20:19:57.149662535Z"
     description: A Helm chart for Kubernetes
     digest: c4a7b03e5243d2b5908e3cbe3dd1d9985f5d0edeceda811876aa39515ca34979
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -472,7 +484,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.873429624Z"
+    created: "2024-10-11T20:19:57.148915465Z"
     description: A Helm chart for Kubernetes
     digest: 3b7f4a3979da1fa87bc30ba8bf6315ab3d4871ef7c3bf545a26a113eaf811c33
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -484,7 +496,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.872134131Z"
+    created: "2024-10-11T20:19:57.148148328Z"
     description: A Helm chart for Kubernetes
     digest: f13fed339613dcbd43dfc100f8f9c5209cc1d7d9384f661de5953a1d88f5d10b
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -497,7 +509,7 @@ entries:
   node-https-eks02:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.879783472Z"
+    created: "2024-10-11T20:19:57.153762497Z"
     description: A Helm chart for Kubernetes
     digest: babf69402b3911598ba041cd5524859941d8b4440c27141b87491617c7d0807d
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -509,7 +521,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.879002702Z"
+    created: "2024-10-11T20:19:57.152690798Z"
     description: A Helm chart for Kubernetes
     digest: e93a236fde7158083986affa647bc91053584af6260f740a4f46a4b19acacdd5
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -522,7 +534,7 @@ entries:
   node-https-eks03:
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2024-10-09T17:45:47.884892204Z"
+    created: "2024-10-11T20:19:57.159545674Z"
     description: A Helm chart for Kubernetes
     digest: 43ff569c3ab00fc4cf151e6cbfc36850d27fb61d5e737d92a06c13984db45186
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -534,7 +546,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.884055429Z"
+    created: "2024-10-11T20:19:57.157846715Z"
     description: A Helm chart for Kubernetes
     digest: a375922283eee77329476b675fbae4082d4eebddb4a26a78decceeaf1a499282
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -546,7 +558,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.881821286Z"
+    created: "2024-10-11T20:19:57.155821886Z"
     description: A Helm chart for Kubernetes
     digest: 03d2a70c741000c7d0d9bd4b7345213b639862d4ceef515bc7ef9c42c39c9507
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -559,7 +571,7 @@ entries:
   node-https-eks04:
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2024-10-09T17:45:47.887271702Z"
+    created: "2024-10-11T20:19:57.164507564Z"
     description: A Helm chart for Kubernetes
     digest: 4b8d025957e74b6d0064e83a43531b93be5b8622d47368585a4a4692e7755558
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -571,7 +583,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.886506079Z"
+    created: "2024-10-11T20:19:57.162951638Z"
     description: A Helm chart for Kubernetes
     digest: 0d180dc61b4e3990356d3cb41e575420ffdaba5f932b9d2455dadf1e682c0b89
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -583,7 +595,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.885712903Z"
+    created: "2024-10-11T20:19:57.161017181Z"
     description: A Helm chart for Kubernetes
     digest: 0986b646a2b31fda1e9fc929449f01e2ac2af0164c700ff230b2be9fe686cef3
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -596,7 +608,7 @@ entries:
   node-https-eks99:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.889288Z"
+    created: "2024-10-11T20:19:57.16746246Z"
     description: A Helm chart for Kubernetes
     digest: 73d641cf6753daf09b52049c35334971884839196f5d523906921086c5ee1438
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -608,7 +620,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.888188203Z"
+    created: "2024-10-11T20:19:57.165930427Z"
     description: A Helm chart for Kubernetes
     digest: 8ab7eecbf2f9d7522f542e32daa21309a4b73c030c7d5fb5120fce3729e74676
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -621,7 +633,7 @@ entries:
   node-https-gke02:
   - apiVersion: v1
     appVersion: 0.0.8
-    created: "2024-10-09T17:45:47.896718548Z"
+    created: "2024-10-11T20:19:57.179944481Z"
     description: A Helm chart for Kubernetes
     digest: 6e8783e708c62b0cb1c2a77b11e159be777fd6123f2ac740bcc5a9bb215deefa
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -633,7 +645,7 @@ entries:
     version: 0.0.8
   - apiVersion: v1
     appVersion: 0.0.7
-    created: "2024-10-09T17:45:47.894987895Z"
+    created: "2024-10-11T20:19:57.17758018Z"
     description: A Helm chart for Kubernetes
     digest: 24d5979892aa452d24074ccdefd11c0a10116445fc96c629f4a009dbe9eeaf47
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -645,7 +657,7 @@ entries:
     version: 0.0.7
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2024-10-09T17:45:47.894212654Z"
+    created: "2024-10-11T20:19:57.17556486Z"
     description: A Helm chart for Kubernetes
     digest: 7260377cade8efc3c27803c07a80f4226131f1bebc3e1089bfe4aaa7ad9d48b6
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -657,7 +669,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2024-10-09T17:45:47.893468274Z"
+    created: "2024-10-11T20:19:57.174241667Z"
     description: A Helm chart for Kubernetes
     digest: 79f934009f5061a3adca51e04b177ea9cbf873a59d41dfb1b33d85ce0901a0b0
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -669,7 +681,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2024-10-09T17:45:47.892689061Z"
+    created: "2024-10-11T20:19:57.172991811Z"
     description: A Helm chart for Kubernetes
     digest: 98157d30ad7d8fc781cf14b8c5d39ff2b78a9818cb67565952fcddf2ea486ce9
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -681,7 +693,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2024-10-09T17:45:47.891883246Z"
+    created: "2024-10-11T20:19:57.171773637Z"
     description: A Helm chart for Kubernetes
     digest: 6a8c5dbbe30bd9d1a3c900c67e2e8087aaee6508f8beeba6bcb5e691653e581c
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -693,7 +705,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.891092286Z"
+    created: "2024-10-11T20:19:57.170251369Z"
     description: A Helm chart for Kubernetes
     digest: f6294dc00f16746e26eba0637cea74cf5796660e5bc6be26aab31ebfbd691730
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -705,7 +717,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.890203212Z"
+    created: "2024-10-11T20:19:57.168978178Z"
     description: A Helm chart for Kubernetes
     digest: d568af7dfa5cc83828bafb66509d80d3a3e90ab0be950d55d9b19d961010ce9c
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -718,7 +730,7 @@ entries:
   node-https-gke03:
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2024-10-09T17:45:47.900693251Z"
+    created: "2024-10-11T20:19:57.21191504Z"
     description: A Helm chart for Kubernetes
     digest: 97a51b9994797073ea6e077c33735220f659131b542576334bef757a0f8246bf
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -730,7 +742,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.899921141Z"
+    created: "2024-10-11T20:19:57.207581596Z"
     description: A Helm chart for Kubernetes
     digest: 774f67b4e5917946d9386f5033c3d580d1705016f3f1c779e74e033ef04337cc
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -742,7 +754,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.899074914Z"
+    created: "2024-10-11T20:19:57.181964715Z"
     description: A Helm chart for Kubernetes
     digest: b819bca1f099a79d9a8ddb4b310ec55871a43a5d0a8793daae81d38abab78a36
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -755,7 +767,7 @@ entries:
   node-https-gke04:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.90219333Z"
+    created: "2024-10-11T20:19:57.214642681Z"
     description: A Helm chart for Kubernetes
     digest: efebc0b9acd8daf112295ea85593906945604b01f71ad39cf2475b42f0407363
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -767,7 +779,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.901458673Z"
+    created: "2024-10-11T20:19:57.213360325Z"
     description: A Helm chart for Kubernetes
     digest: d8ac39dec5c7b97231e443553f4fc0886f2a26321b566282224cd4f1a88c8073
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -780,7 +792,7 @@ entries:
   node-https-gke05:
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2024-10-09T17:45:47.905220233Z"
+    created: "2024-10-11T20:19:57.220226735Z"
     description: A Helm chart for Kubernetes
     digest: b6e67b9a5b37471d27c0dc386649ccef258c2424b3299d584196240a58266e71
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -792,7 +804,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2024-10-09T17:45:47.904475218Z"
+    created: "2024-10-11T20:19:57.218984315Z"
     description: A Helm chart for Kubernetes
     digest: 2f1d946d93cabf3e7040c3f10f74e279f82f48e920c35c87e05f7e2c58dbf5d5
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -804,7 +816,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.903724216Z"
+    created: "2024-10-11T20:19:57.217631729Z"
     description: A Helm chart for Kubernetes
     digest: 6c1718e005644fbeb6121fd2929a2fe6a47d6223a32cab60a60cb213b28add9f
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -816,7 +828,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.902952874Z"
+    created: "2024-10-11T20:19:57.216312936Z"
     description: A Helm chart for Kubernetes
     digest: 260b240a1f4b1c21be0b952e5c9df98e53ea832879c8213274d65debd5dcda3d
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -829,7 +841,7 @@ entries:
   node-https-tst02:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.905955635Z"
+    created: "2024-10-11T20:19:57.221559146Z"
     description: A Helm chart for Kubernetes
     digest: 3d9ca045019cc40549106d48dccf0c476da28001bdbe011dd4e29587979e31c0
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -842,7 +854,7 @@ entries:
   node-https-v3001:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.909145395Z"
+    created: "2024-10-11T20:19:57.226160462Z"
     description: A Helm chart for Kubernetes
     digest: 705cdaf32f2f04fc7452fa18aaa5adaec37209a505d1755d0fd7e33ef2985c02
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -854,7 +866,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.908400619Z"
+    created: "2024-10-11T20:19:57.225269784Z"
     description: A Helm chart for Kubernetes
     digest: bb346365683ba023d5dc17da2f89e25f2b93584d68926118d0a7baa9453d2287
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -867,7 +879,7 @@ entries:
   node-https-v3002:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.910193458Z"
+    created: "2024-10-11T20:19:57.228046219Z"
     description: A Helm chart for Kubernetes
     digest: 289ff9e1bed44d8030c686c39978fd93142fa304bd1622c8baa126047374f542
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -880,7 +892,7 @@ entries:
   node-https-v30003:
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-09T17:45:47.907537344Z"
+    created: "2024-10-11T20:19:57.224131457Z"
     description: A Helm chart for Kubernetes
     digest: 5aba68326b177e2b0624ecf4908e2645c31e9ed41c5bbc49d6c4bbf8df82395f
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -892,7 +904,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2024-10-09T17:45:47.906734888Z"
+    created: "2024-10-11T20:19:57.22285766Z"
     description: A Helm chart for Kubernetes
     digest: d1a6cf237d93dc94d810f821146955560da9fb546771b1032465c57775a92d65
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -902,4 +914,4 @@ entries:
     urls:
     - node-https-v30003-0.0.1.tgz
     version: 0.0.1
-generated: "2024-10-09T17:45:47.837761515Z"
+generated: "2024-10-11T20:19:57.112273017Z"
